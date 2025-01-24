@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76e370e469207a74d9c06624a1b6d276
+timeCreated: 1426664854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 879
+  packageName: Medieval Sword, hand painted
+  packageVersion: 1.1
+  assetPath: Assets/Sword/Prefabs/sword_01.prefab
+  uploadId: 55403
